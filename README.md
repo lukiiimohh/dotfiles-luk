@@ -13,9 +13,6 @@ Contact: lukiiimohh#0633
 * Shortcuts: <a name="sxhkd">sxhkd</a>
 
 
-
-Follow the instructions in `setup.sh`
-
 ## **Useful keybindigs to know...**
 
 |  Function | keybindigs |
